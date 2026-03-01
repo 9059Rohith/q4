@@ -2,7 +2,7 @@ name: Playwright QA - DataDash Table Scraper
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
